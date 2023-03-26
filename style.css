@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.containerResponseForm {
+    margin: 0 auto;
+    margin-top: 10%;
+    border: darkblue 10px double;
+    padding: 2rem;
+    width: 40%;
+    height: 50%;
+}
